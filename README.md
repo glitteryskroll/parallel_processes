@@ -1,2 +1,2 @@
 # parallel_processes
-programmin parrallel processes
+programming parrallel processes
